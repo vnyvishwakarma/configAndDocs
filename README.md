@@ -1,4 +1,4 @@
-# configAndDocs
+# CloudWatch
 
 ```bash
 1. Bootstrap script: 
